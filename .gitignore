@@ -1,0 +1,10 @@
+bin/
+obj/
+temp/
+output/
+logs/
+*.user
+*.suo
+.vs/
+.idea/
+appsettings.Development.json
